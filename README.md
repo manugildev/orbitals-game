@@ -1,6 +1,6 @@
 # Orbitals Game
 <a href="http://bit.ly/orbitalsGame"><img src="http://i.imgur.com/DRIFTtu.png" title="Orbitals Game" /></a>
-DOWNLOAD THE GAME: http://bit.ly/orbitalsGame (Google Play)
+<strong>DOWNLOAD THE GAME:</strong> http://bit.ly/orbitalsGame (Google Play)
 
 ORBITALS is a Fast and highly addictive game where you have to tap on the screen to travel between different planets. This game is made in Java using Android Studio since Google is not supporting Eclipse anymore (you can import on Eclipse). The game has been made using LibGDX framework which is also made in pure java.
 
